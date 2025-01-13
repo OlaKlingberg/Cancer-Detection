@@ -14,7 +14,7 @@ The data can be accessed from the Kaggle page for the competition [Histopatholog
 * **Model Development**: Constructs and compares three different architectures of a Convolutional Neural Network (CNN) tailored: a simple, an intermediate, and a deeper model.
 * **Performance Evaluation**: Assesses the models based on accuracy, loss, and Area Under Receiver Operating Characteristic Curve (AUC).
 
-** Results:
+## Results:
 The best-performing model was a deeper model, using L2 regularization, which achieved a validation accuracy of 0.887 and validation AUC of 0.974 (run 11 below)
 
 ![Results Table](https://github.com/user-attachments/assets/c39c8ad9-a167-4f3b-99f0-5752366cc280)
